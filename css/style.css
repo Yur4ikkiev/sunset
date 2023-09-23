@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* 10 */
+body {
+    background-image: url(../img/pink-flowers.webp);
+    background-size: cover;
+    background-color: #B4B4B4;
+    font-family: "Roboto", Arial, sans-serif;
+    font-weight: 400;
+}
+
+/* 10 */
+.wrapper {
+    width: 89%;
+    margin: 0 auto 26px auto;
+    background-color: #FFF;
+}
+
+/* 10 */
+.header__heading--spec {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+/* 10 */
+.header__heading  {
+    padding-top: 96px;
+    color: #A11414;
+    font-size: 32px;
+}
+
+/* 10 */
+.header {
+    padding: 0 50px;
+}
+
+/* 20 */
+.main {
+    padding: 0 52px 0 50px;
+}
+
+/* 10 */
+.header__img-wrap {
+    margin-top: 46px;
+    padding: 14px 13px;
+    border: 1px solid #000;
+    border-radius: 2px;
+    /* margin-bottom: 57px; */
+}
+
+/* 11 */
+.header__img-wrap img {
+    width: 100%;
+}
+
+/* 10 */
+.section--flx {
+    display: flex;
+}
+
+/* 10 */
+.article__heading {
+    font-size: 24px;
+    color: #A11414;
+    font-weight: 700;
+    line-height: 28.13px;
+    margin-top: 57px;
+    margin-left: 1px;
+}
+
+/* 10 */
+.article__item {
+    margin-top: 15px;
+    margin-right: 3px;
+    color: #1D1B1B;
+    font-size: 16px;
+    font-weight: 400;
+    text-indent: 2em;
+    word-wrap: break-word;
+    margin-bottom: 2px;
+}
+
+/* 10 */
+.nav-wrap {
+    width: 29%;
+    border-radius: 2px 15px;
+    background: #d7d7d7;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 59px;
+}
+
+/* 10 */
+.nav-heading {
+    color: #000;
+    font-size: 16px;
+    font-family: Arial;
+    font-weight: 700;
+    word-wrap: break-word;
+    display:inline-block;
+    margin-top: 5.81%;
+    margin-left: 5.69%; 
+    padding-right: 88px;
+}
+
+/* 10 */
+.nav__item {
+    color: #000;
+    font-size: 16px;
+    font-family: Arial;
+    font-weight: 400;
+    margin-top: 6.29%;
+    margin-left: 5.69%;
+    text-decoration: none;
+}
+
+/* 20 */
+.nav__item3 .nav__link3 {
+    color: #A11414;
+    font-size: 16px;
+    font-family: Arial;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-left: 5.69%;
+    margin-bottom: 5.21%;
+    display:inline-block;
+}
+
+/* 20 */
+.nav__link:hover {
+    color: #A11414;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+/* 10 */
+.article__heading--mod {
+    color: #A11414;
+    margin-top: 29px;
+    font-size: 24px;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+/* 10 */
+.article__item{
+    olor: #1D1B1B;
+    font-size: 16px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+/* 10 */
+.artical__text--spec {
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+
+/* 10 */
+.artical__text--mod {
+    color: #A11414;
+}
+
+/* 10 */
+.artical__text--add {
+    text-decoration: line-through;
+}
+
+/* 10 */
+.artical_item {
+    text-indent: 2em;
+    margin-top: 20px;
+}
+
+/* 10 */
+.footer__item {
+    background-image: url(../img/back.gif);
+    text-align: center;
+    vertical-align: top;
+    background-position: top;
+    background-size: 60%;
+    background-repeat:no-repeat;
+    margin-top: 31px;
+    padding-bottom: 24px;
+    
+}
+
+/* 10 */
+.footer__item--spec {
+    font-weight: 700;
+}
+
+
+
