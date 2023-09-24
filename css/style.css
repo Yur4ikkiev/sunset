@@ -1,19 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
 
-/* 10 */
+/* 1 */
 body {
     background-image: url(../img/pink-flowers.webp);
-    background-size: cover;
-    background-color: #B4B4B4;
+    background-color: rgba(0, 0, 0, 0.25);
     font-family: "Roboto", Arial, sans-serif;
     font-weight: 400;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 auto;
 }
 
 /* 10 */
 .wrapper {
     width: 89%;
-    margin: 0 auto 26px auto;
-    background-color: #FFF;
+    margin-bottom: 26px;
+    margin-left: 4.5%;
+    margin-right: 4.5%;
+    background: white;
 }
 
 /* 10 */
@@ -26,15 +30,16 @@ body {
 .header__heading  {
     padding-top: 96px;
     color: #A11414;
-    font-size: 32px;
+    font-size: 2rem;
+    margin-left: 3.94%;
 }
 
 /* 10 */
 .header {
-    padding: 0 50px;
+    padding: 0 3,94%;
 }
 
-/* 20 */
+/* 10 */
 .main {
     padding: 0 52px 0 50px;
 }
@@ -42,6 +47,8 @@ body {
 /* 10 */
 .header__img-wrap {
     margin-top: 46px;
+    margin-left: 3.94%;
+    margin-right: 3.94%;
     padding: 14px 13px;
     border: 1px solid #000;
     border-radius: 2px;
